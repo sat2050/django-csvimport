@@ -32,7 +32,7 @@ setup(name='django-csvimport',
       install_requires=[
           'chardet',
           'django-appconf>=0.5',
-          'django>=1.4'
+          'django>=1.3'
       ],
       entry_points="""
       # -*- Entry points: -*-
